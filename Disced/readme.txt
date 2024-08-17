@@ -1,1 +1,1 @@
-
+This code is sorted into different parts, which correspond to my rebuilding of the source code from Disced v 1.31 which was released by me in 1988. I lost all my source code back then and over the years wanted to rebuild it, so that is what this is about, for more info and to read the series see https://www.amstrad-noob.com/2020/09/11/disassembling-my-old-code-from-1988-part-1/
